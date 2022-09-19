@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @4ksanzz
+› Base Ori @4keysteam
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -18,31 +18,31 @@ zenz: 'https://zenzapis.xyz',
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
 //gausah di apa² in, udah free apikey :)
-'https://zenzapis.xyz': 'BagasGanz',
+'https://zenzapis.xyz': 'BagasPrdn',
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6281236167286'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285205985496'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6281236167286' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '4ksanzz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '4keysEs' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '4keysteam' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://youtube.com/c/4KSanzz'
+global.ig = 'https://instagram.com/4k.sanz/'
+global.mygc = 'https://chat.whatsapp.com/EMckM4WLv5cFZkS0Vi6iOk'
+global.myweb = 'https://wa.me/6281236167286'
+global.email = 'muhammadholil1717@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© 4ksanzz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = '4keysEs' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -52,17 +52,17 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 999999,
 }
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
 global.thumb = fs.readFileSync('./image/chika.jpg')
-/*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
+global.veloriy = fs.readFileSync('./image/chika.mp4')
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
+global.BgWelcLeav = 'https://drive.google.com/file/d/174iDjvX9RjtBFonBM9CFVc69OugR0ZVf/view?usp=drivesdk'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
